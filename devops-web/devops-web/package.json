@@ -2,7 +2,7 @@
   "name": "devops-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thepawankrtiwari.github.io/DevOps_Project_React/",
+  "homepage": "https://thepawankrtiwari.github.io/DevOps_Project_React/tree/main/devops-web/devops-web/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
