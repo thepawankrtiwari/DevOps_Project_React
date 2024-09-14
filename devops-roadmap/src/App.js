@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import SectionCard from './components/SectionCard';
 import Footer from './components/Footer';
-import UpdateForm from './components/UpdateForm'; 
+import './App.css';  // Ensure this file is imported to apply the styles
 
 const sections = [
   {
@@ -51,16 +51,26 @@ const App = () => {
   return (
     <div className="App">
       <Header />
+      
+      {/* Container for cards with equal space, no horizontal scroll */}
       <div className="sections-container">
         {sections.map((section, index) => (
           <SectionCard key={index} title={section.title} points={section.points} />
         ))}
       </div>
+
+      {/* Subscribe section above the footer */}
+      <div className="subscribe-section">
+        <h3>Subscribe to Us!</h3>
+        <form>
+          <input type="email" placeholder="Enter your email" required />
+          <input type="submit" value="Subscribe" />
+        </form>
+      </div>
+
       <Footer />
     </div>
   );
 };
-
-
 
 export default App;
