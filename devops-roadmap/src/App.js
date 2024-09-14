@@ -51,10 +51,11 @@ const App = () => {
   return (
     <div className="App">
       <Header />
-      {sections.map((section, index) => (
-        <SectionCard key={index} title={section.title} points={section.points} />
-      ))}
-      <UpdateForm />
+      <div className="sections-container">
+        {sections.map((section, index) => (
+          <SectionCard key={index} title={section.title} points={section.points} />
+        ))}
+      </div>
       <Footer />
     </div>
   );
