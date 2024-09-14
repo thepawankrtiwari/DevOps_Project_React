@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thepawankrtiwari/%20%20DevOps_Project_React/static/css/main.2fdbb509.css",
-    "main.js": "/thepawankrtiwari/%20%20DevOps_Project_React/static/js/main.47b14660.js",
-    "static/js/453.008dd4d5.chunk.js": "/thepawankrtiwari/%20%20DevOps_Project_React/static/js/453.008dd4d5.chunk.js",
-    "index.html": "/thepawankrtiwari/%20%20DevOps_Project_React/index.html",
-    "main.2fdbb509.css.map": "/thepawankrtiwari/%20%20DevOps_Project_React/static/css/main.2fdbb509.css.map",
-    "main.47b14660.js.map": "/thepawankrtiwari/%20%20DevOps_Project_React/static/js/main.47b14660.js.map",
-    "453.008dd4d5.chunk.js.map": "/thepawankrtiwari/%20%20DevOps_Project_React/static/js/453.008dd4d5.chunk.js.map"
+    "main.css": "/DevOps_Project_React/static/css/main.2fdbb509.css",
+    "main.js": "/DevOps_Project_React/static/js/main.e2664ba9.js",
+    "static/js/453.008dd4d5.chunk.js": "/DevOps_Project_React/static/js/453.008dd4d5.chunk.js",
+    "index.html": "/DevOps_Project_React/index.html",
+    "main.2fdbb509.css.map": "/DevOps_Project_React/static/css/main.2fdbb509.css.map",
+    "main.e2664ba9.js.map": "/DevOps_Project_React/static/js/main.e2664ba9.js.map",
+    "453.008dd4d5.chunk.js.map": "/DevOps_Project_React/static/js/453.008dd4d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fdbb509.css",
-    "static/js/main.47b14660.js"
+    "static/js/main.e2664ba9.js"
   ]
 }
