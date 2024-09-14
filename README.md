@@ -4,6 +4,7 @@ Welcome to my DevOps learning journey! This README outlines the comprehensive ro
 
 ## Linux Fundamentals 🐧
 ### Shell Scripting
+- **Linux/Unix**
 - **Bash**
 - **Automation**
 
@@ -39,8 +40,6 @@ Welcome to my DevOps learning journey! This README outlines the comprehensive ro
     - **Setup and Manage Isolated Networks**
 - **Google Cloud Platform**
 - **Azure**
-
-## Understand SDLC 📈
 
 ## Containerization 🛳️
 - ### Docker
