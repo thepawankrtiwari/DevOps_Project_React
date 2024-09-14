@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DevOps_Project_React/static/css/main.2fdbb509.css",
-    "main.js": "/DevOps_Project_React/static/js/main.e2664ba9.js",
-    "static/js/453.008dd4d5.chunk.js": "/DevOps_Project_React/static/js/453.008dd4d5.chunk.js",
-    "index.html": "/DevOps_Project_React/index.html",
-    "main.2fdbb509.css.map": "/DevOps_Project_React/static/css/main.2fdbb509.css.map",
-    "main.e2664ba9.js.map": "/DevOps_Project_React/static/js/main.e2664ba9.js.map",
-    "453.008dd4d5.chunk.js.map": "/DevOps_Project_React/static/js/453.008dd4d5.chunk.js.map"
+    "main.css": "/DevOps_Project_React/tree/main/devops-web/devops-web/static/css/main.2fdbb509.css",
+    "main.js": "/DevOps_Project_React/tree/main/devops-web/devops-web/static/js/main.0f86471d.js",
+    "static/js/453.008dd4d5.chunk.js": "/DevOps_Project_React/tree/main/devops-web/devops-web/static/js/453.008dd4d5.chunk.js",
+    "index.html": "/DevOps_Project_React/tree/main/devops-web/devops-web/index.html",
+    "main.2fdbb509.css.map": "/DevOps_Project_React/tree/main/devops-web/devops-web/static/css/main.2fdbb509.css.map",
+    "main.0f86471d.js.map": "/DevOps_Project_React/tree/main/devops-web/devops-web/static/js/main.0f86471d.js.map",
+    "453.008dd4d5.chunk.js.map": "/DevOps_Project_React/tree/main/devops-web/devops-web/static/js/453.008dd4d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fdbb509.css",
-    "static/js/main.e2664ba9.js"
+    "static/js/main.0f86471d.js"
   ]
 }
