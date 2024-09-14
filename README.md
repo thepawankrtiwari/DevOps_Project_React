@@ -43,11 +43,11 @@ Welcome to my DevOps learning journey! This README outlines the comprehensive ro
 ## Understand SDLC 📈
 
 ## Containerization 🛳️
-### Docker
-- **Create Docker Images**
-- **Starting, Stopping & Managing Containers**
-- **Write Dockerfiles**
-- **Run Multi-Container Apps using Docker Compose**
+- ### Docker
+    - **Create Docker Images**
+    - **Starting, Stopping & Managing Containers**
+    - **Write Dockerfiles**
+    - **Run Multi-Container Apps using Docker Compose**
 
 ## CI/CD Technologies 🚧
 - **Jenkins**
@@ -59,13 +59,13 @@ Welcome to my DevOps learning journey! This README outlines the comprehensive ro
 - **GitLab**
 
 ## Orchestration & Management 🛠️
-### Kubernetes
-- **Overall Architecture: Master and Worker Nodes**
-- **Key Components: Pods, Services**
-- **Manage Resources**
-- **Scale Applications**
-- **Networking Model**
-### Helm
+- Kubernetes
+    - **Overall Architecture: Master and Worker Nodes**
+    - **Key Components: Pods, Services**
+    - **Manage Resources**
+    - **Scale Applications**
+    - **Networking Model**
+- Helm
 
 ## Networking & Infrastructure Service 🛡️
 - **Configure Nginx as a Reverse Proxy**
