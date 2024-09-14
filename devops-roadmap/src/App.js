@@ -6,24 +6,44 @@ import './App.css';  // Ensure this file is imported to apply the styles
 
 const sections = [
   {
-    title: 'Operating Systems & Shell Scripting',
-    points: ['Linux/Unix', 'Shell Scripting', 'Command Line Proficiency'],
+    title: 'Linux Fundamentals',
+    points: ['Shell Scripting, Linux/Unix', 'Command Line Proficiency'],
+  },
+  {
+    title: 'Networking Concepts',
+    points: ['SDLC, OSI models, TCP/IP Models','IP Addressing'],
   },
   {
     title: 'Version Control Systems (VCS)',
     points: ['Git', 'GitHub/GitLab/Bitbucket'],
   },
   {
-    title: 'CI/CD Pipelines',
-    points: ['Jenkins', 'CircleCI/TravisCI', 'GitLab CI'],
-  },
-  {
-    title: 'Containers & Orchestration',
-    points: ['Docker', 'Docker Compose', 'Kubernetes'],
+    title: 'Language: Java | Golang | Python',
+    points: ['Basic Syntax & Data Structures,Modules & Packages, Write & Execute Scripts'],
   },
   {
     title: 'Cloud Computing',
     points: ['AWS (EC2, S3, Lambda)', 'Azure', 'Google Cloud Platform'],
+  },
+  {
+    title: 'Containerization',
+    points: ['Docker', 'Docker Compose', 'Kubernetes'],
+  },
+  {
+    title: 'CI/CD Technologies',
+    points: ['Jenkins', 'CircleCI/TravisCI', 'GitLab CI'],
+  },
+  {
+    title: 'Orchestration & Management',
+    points: ['Architecture of Nodes,Pods & Services,Manage Resources, Scale Applications, Networking Model'],
+  },
+  {
+    title: 'Networking & Security',
+    points: ['Nginx/Apache', 'SSL/TLS', 'Firewall/Load Balancers'],
+  },
+  {
+    title: 'Configuration Management Tools',
+    points: ['Ansible ( Ansible Playbooks, Roles & Modules, Variables & Templates)','Puppet','Chef'],
   },
   {
     title: 'Infrastructure as Code (IaC)',
@@ -32,10 +52,6 @@ const sections = [
   {
     title: 'Monitoring & Logging',
     points: ['Prometheus', 'Grafana', 'ELK Stack', 'Splunk'],
-  },
-  {
-    title: 'Networking & Security',
-    points: ['Nginx/Apache', 'SSL/TLS', 'Firewall/Load Balancers'],
   },
   {
     title: 'Automation & Scripting',
