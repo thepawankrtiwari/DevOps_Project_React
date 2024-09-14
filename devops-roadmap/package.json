@@ -1,8 +1,8 @@
 {
+  "homepage": "https://thepawankrtiwari.github.io/DevOps_Project_React",
   "name": "devops-roadmap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/thepawankrtiwari/DevOps_Project_React/devops-roadmap/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
