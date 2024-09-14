@@ -16,7 +16,7 @@ h1, h2, p, li {
   flex-wrap: wrap; /* Allows cards to wrap into new rows */
   justify-content: space;
   gap: 40px; /* Space between cards */
-  padding: 20px 160px;
+  padding: 20px 80px;
 }
 
 /* Card styling */
